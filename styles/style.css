@@ -1,12 +1,14 @@
 body {
-    background-color: #181a1b;
+	background-color: #181a1b;
     color: white;
-    font-family: 'monospace';
-    src: 'fonts/';
-    padding-left: 8px;
-    padding-right: 8px;
+    font-family: monospace;
+	margin:20px auto;
+	max-width:800px;
+	line-height:1.5em;
+	font-size:1.1em;
+	padding:0 10px;
+	hyphens:auto;
 }
-
 .content {
    font-size: 16px;
 }
