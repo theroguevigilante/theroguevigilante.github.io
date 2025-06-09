@@ -1,0 +1,48 @@
+body {
+    background-color: #181a1b;
+    color: white;
+    font-family: monospace;
+	margin:20px auto;
+	max-width:800px;
+	line-height:1.5em;
+	font-size:1.1em;
+	padding:0 10px;
+	hyphens:auto;
+}
+
+.content a{
+    color: red;
+    text-decoration: none;
+}
+
+.content a:visited{
+    color: orange;
+}
+
+.content {
+   font-size: 16px;
+}
+
+.navbar nav ul{
+    list-style-type: none;
+    background-color: #181a1b;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+.navbar nav a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+.navbar nav a:hover{
+    background-color: black;
+}
+
+.navbar nav li{
+    float: left;
+}
