@@ -6,6 +6,27 @@
 <description>Why do you need a description seriously?</description>
 <language>en-us</language>
 <item>
+<title>the end of 10</title>
+<link>http://naimish.xyz/articles/end-of-10</link>
+<description><![CDATA[<p>
+        Windows 10 is reaching end of support on Oct, 14 2025, a lot of people will be throwing away their computers or using an outdated OS even after it runs out of support. And the new version of windows doesnt supports processors that are just a few year old. Even a 7th gen i9 isnt officialy supported by Windows 11. The aim of this article is to tell people about the Free and open source options available in the GNU/Linux ecosystem. Read more about end of 10 <a href="https://endof10.org/">here</a>.
+        </p>
+        <p>
+        <ul><li><a href="https://linuxmint.com">Linux Mint (GOAT)</a></li>
+            <li><a href="https://debian.org">Debian (The universal operating system)</a></li>
+            <li><a href="https://archlinux.org">Arch Linux (Style points)</a></li>
+            <li><a href="https://gentoo.org">Gentoo (Get a life dude)</a></li>
+        </ul>
+        </p>
+        <p>With GNU/Linux the options are endless, almost everyone uses a different configuration, and if you will ask a particular GNU/Linux user about his OS of choice some of his own biases will make their way into the recommendations, but I think most of the community agrees that <a href="https://linuxmint.org">Mint</a> is the best for someone who is just getting into the world of free software.</p>
+        <p>If you have read this far, I would assume that you are considering the switch. Good luck and welcome to free software.</p>
+        <p><em><strong>PS: Free software is not software that is available free of cost, it means software which respects the users privacy and its source code is freely available to change as per the user.</strong></em></p>
+        <p>I am not affiliated with end-of-10. This article exists solely to help other people.</p>
+ ]]></description>
+ <pubDate>Mon, 8 Sep 2025 18:20:00 +0530</pubDate>
+<category>Articles</category>
+</item>
+<item>
 <title>the art of not knowing</title>
 <link>http://naimish.xyz/articles/the_art_of_not_knowing</link>
 <description><![CDATA[<p>
